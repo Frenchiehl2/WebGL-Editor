@@ -1,0 +1,11 @@
+#MainCanvas{
+  display:block;
+}
+#MainContainer{
+  position: relative;
+}
+
+
+#Overlay{
+  position: absolute;
+}
